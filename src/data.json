@@ -1,0 +1,23 @@
+{
+  "animals": [
+    {
+      "id": "a1",
+      "idType": "t1",
+      "name": "Simba",
+      "age": 2,
+      "diet": "antelopes",
+      "cry": "raaaarr"
+    },
+    { "id": "a2", "idType": "t1", "name": "Alex", "age": 5, "diet": "wildebeests", "cry": "rrrr" },
+    { "id": "a3", "idType": "t2", "name": "Snowy", "age": 7, "diet": "bones", "cry": "woaf" },
+    { "id": "a4", "idType": "t2", "name": "Pluto", "age": 3, "diet": "kibbles", "cry": "woof" },
+    { "id": "a5", "idType": "t3", "name": "Bugs Bummy", "age": 4, "diet": "carrots", "cry": "doc" },
+    { "id": "a6", "idType": "t4", "name": "Slippy Toad", "age": 5, "diet": "flies", "cry": "croak" }
+  ],
+  "types": [
+    { "id": "t1", "emoji": "🦁", "name": "Lion", "feature": "roar", "cry": "roar" },
+    { "id": "t2", "emoji": "🐶", "name": "Dog", "feature": "play", "cry": "woof" },
+    { "id": "t3", "emoji": "🐰", "name": "Rabbit", "feature": "jump", "cry": "what's up" },
+    { "id": "t4", "emoji": "🐸", "name": "Frog", "feature": "sing", "cry": "croak" }
+  ]
+}
